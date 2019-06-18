@@ -1,0 +1,114 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/CraigFan/Downloads/pando
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=98a027c416b2465eb64cecf61aff2b3cc3dc86e83e3e015b
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=98a027c416b2465eb64cecf61aff2b3cc3dc86e83e3e015b
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /apple-touch-icon-precomposed.png (::1) 9.76ms referer=None
+[NotebookApp | WARNING] 404 GET /apple-touch-icon.png (::1) 2.04ms referer=None
+[NotebookApp | INFO] Kernel started: 2cdebf38-d3ff-4ebd-bd00-c5fb4b5a1c6c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/CraigFan/Downloads/pando
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=cbca659a8676c6fd82f769c31e899d9e6323cb833fafa940
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=cbca659a8676c6fd82f769c31e899d9e6323cb833fafa940
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /apple-touch-icon-precomposed.png (::1) 8.17ms referer=None
+[NotebookApp | WARNING] 404 GET /apple-touch-icon.png (::1) 1.03ms referer=None
+[NotebookApp | INFO] Kernel started: bf608c08-791a-498a-8a7f-dfa86e00b878
+[NotebookApp | INFO] Kernel started: 0afa4ee5-6272-4793-88ff-f30ea3d39fb6
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /cleanData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: bf608c08-791a-498a-8a7f-dfa86e00b878
+[NotebookApp | INFO] Kernel shutdown: 0afa4ee5-6272-4793-88ff-f30ea3d39fb6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/CraigFan/Downloads/pando
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=88051360ce4451b9bd7d0072f80f742f1444a1428ce5b55e
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=88051360ce4451b9bd7d0072f80f742f1444a1428ce5b55e
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: ecde6677-905c-4713-aca4-a692497561e0
+[NotebookApp | INFO] Kernel started: 6ba93e60-ce29-4148-86a1-27aae83022b2
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/CraigFan/Downloads/pando
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=5bc898329383de39dae273292099b9c457db55678a22482b
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=5bc898329383de39dae273292099b9c457db55678a22482b
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 4b83e65a-5b62-4d20-8558-486f4786fe7b
+[NotebookApp | INFO] Kernel started: afb87e4a-9d47-4037-9c5c-287d3f5d5f14
+[NotebookApp | INFO] 302 GET /tree?token=9f3a586ad4082fecfc4f286c2fb0412afe5c5d9628ea2831 (::1) 5.45ms
+[NotebookApp | INFO] 302 GET /tree?token=5ca92a5404d21712ff240d1ad7b8b5dcf14e3e6790a9df57 (::1) 1.21ms
+[NotebookApp | INFO] 302 GET /tree?token=9f3a586ad4082fecfc4f286c2fb0412afe5c5d9628ea2831 (::1) 0.57ms
+[NotebookApp | INFO] 302 GET /tree?token=5ca92a5404d21712ff240d1ad7b8b5dcf14e3e6790a9df57 (::1) 0.67ms
+[NotebookApp | INFO] 302 GET /tree?token=9f3a586ad4082fecfc4f286c2fb0412afe5c5d9628ea2831 (::1) 0.90ms
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] Saving file at /exploreData.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 4b83e65a-5b62-4d20-8558-486f4786fe7b
+[NotebookApp | INFO] Kernel shutdown: afb87e4a-9d47-4037-9c5c-287d3f5d5f14
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/CraigFan/Downloads/pando
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=2cd170d8a4055f164dfbc7c668d29ea04ad638c5391612de
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=2cd170d8a4055f164dfbc7c668d29ea04ad638c5391612de
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 3f06224a-4e1c-42ee-922b-c504fd3d516a
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 3f06224a-4e1c-42ee-922b-c504fd3d516a
